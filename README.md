@@ -1,1 +1,4 @@
-# valungtung
+valungtung/
+  index.html
+  style.css
+  README.md
